@@ -4,6 +4,7 @@ The objective is to transform raw structured data into a clean and usable format
 
 ## Dataset
 The Adult dataset contains demographic and socio-economic information used to predict whether an individual's income exceeds $50K per year.
+Source: Kaggle (link: https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
 
 ## Data Preprocessing Steps
 - Handling missing values
